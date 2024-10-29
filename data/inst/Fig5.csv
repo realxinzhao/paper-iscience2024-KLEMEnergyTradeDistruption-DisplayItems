@@ -1,0 +1,25 @@
+﻿scenario,year,variable,Russia,Exporters,Importers,unit
+SSP2|NoRusX less SSP2,2030,del K(materials) Share,-0.70,2.73,-10.47,Billions 2015 US$
+SSP2|NoRusX less SSP2,2030,del Labor Share,-8.68,2.63,-18.42,Billions 2015 US$
+SSP2|NoRusX less SSP2,2030,del E (energy service) Share,-15.47,14.63,-47.10,Billions 2015 US$
+SSP2|NoRusX less SSP2,2030,del Net Energy Export,-402.36,380.73,21.63,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2030,del K(materials) Share,-0.81,3.30,-6.82,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2030,del Labor Share,-9.87,3.94,-10.87,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2030,del E (energy service) Share,-17.46,18.42,-31.58,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2030,del Net Energy Export,-317.24,314.86,2.38,Billions 2015 US$
+SSP2|NoRusX less SSP2,2050,del K(materials) Share,5.68,21.55,-15.23,Billions 2015 US$
+SSP2|NoRusX less SSP2,2050,del Labor Share,-35.97,111.74,-60.93,Billions 2015 US$
+SSP2|NoRusX less SSP2,2050,del E (energy service) Share,-15.25,65.93,-65.52,Billions 2015 US$
+SSP2|NoRusX less SSP2,2050,del Net Energy Export,-484.05,407.65,76.41,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2050,del K(materials) Share,4.48,29.92,-5.16,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2050,del Labor Share,-37.82,133.10,-34.47,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2050,del E (energy service) Share,-24.19,73.88,-28.86,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2050,del Net Energy Export,-367.61,322.06,45.55,Billions 2015 US$
+SSP2|NoRusX less SSP2,2100,del K(materials) Share,7.21,-4.62,-20.77,Billions 2015 US$
+SSP2|NoRusX less SSP2,2100,del Labor Share,-12.12,69.42,-114.59,Billions 2015 US$
+SSP2|NoRusX less SSP2,2100,del E (energy service) Share,28.08,-7.02,-303.27,Billions 2015 US$
+SSP2|NoRusX less SSP2,2100,del Net Energy Export,-777.36,616.50,160.85,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2100,del K(materials) Share,3.71,7.49,5.43,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2100,del Labor Share,-25.85,108.35,18.92,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2100,del E (energy service) Share,-16.23,84.36,-6.99,Billions 2015 US$
+RCP2.6|NoRusX less RCP2.6,2100,del Net Energy Export,-294.91,181.93,112.98,Billions 2015 US$

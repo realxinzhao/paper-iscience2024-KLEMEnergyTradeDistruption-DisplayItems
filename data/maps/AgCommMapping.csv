@@ -1,0 +1,27 @@
+regsector,AgCOMM,AgCOMM0,AgCOMM1,AgCOMM2,AgCOMM3,AgMIP
+biomass,biomass,Crop,biomass,Energy crops,Energy crops,ECP
+regional wheat,Wheat,Crop,Staples,Staple crops,Staple crops,WHT
+regional rice,Rice,Crop,Staples,Staple crops,Staple crops,RIC
+regional corn,Corn,Crop,Staples,Staple crops,Staple crops,CGR
+regional othergrain,OtherGrain,Crop,Staples,Staple crops,Staple crops,CGR
+regional root_tuber,RootTuber,Crop,Staples,Staple crops,Staple crops,VFN|RTB
+regional oilcrop,OilCrop,Crop,Other Crops,Oil crops,Oil crops,OSD
+regional soybean,Soybean,Crop,Other Crops,Oil crops,Oil crops,OSD
+regional oilpalm,OilPalm,Crop,Other Crops,Oil crops,Oil crops,OSD
+regional legumes,Legumes,Crop,Other Crops,Other crops,Other crops,VFN|LEG
+regional fibercrop,FiberCrop,Crop,Other Crops,Other crops,Other crops,PFB
+regional sugarcrop,SugarCrop,Crop,Other Crops,Other crops,Other crops,SGC
+regional nuts_seeds,NutsSeeds,Crop,Other Crops,Other crops,Other crops,VFN|NUT
+regional fruits,Fruits,Crop,Other Crops,Other crops,Other crops,VFN|FRU
+regional vegetables,Vegetables,Crop,Other Crops,Other crops,Other crops,VFN|VEG
+regional misccrop,MiscCrop,Crop,Other Crops,Other crops,Other crops,OCR
+regional beef,Beef,Livestock,Livestock,Livestock,Livestock,RUM
+regional dairy,Dairy,Livestock,Livestock,Livestock,Livestock,DRY
+regional sheepgoat,SheepGoat,Livestock,Livestock,Livestock,Livestock,RUM
+regional pork,Pork,Livestock,Livestock,Livestock,Livestock,NRM
+regional poultry,Poultry,Livestock,Livestock,Livestock,Livestock,NRM
+OtherMeat_Fish,OtherMeat_Fish,Livestock,Livestock,Livestock,Livestock,FSH_OAP
+Pasture,Pasture,Pasture,Pasture,Pasture,Pasture,
+FodderHerb,FodderHerb,Crop,Fodder,Fodder crops,Other crops,OCR
+FodderGrass,FodderGrass,Crop,Fodder,Fodder crops,Other crops,OCR
+,Forest,Forest,Forest,Forest,Forest,

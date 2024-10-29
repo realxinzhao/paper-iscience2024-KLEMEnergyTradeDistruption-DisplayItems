@@ -1,0 +1,49 @@
+﻿scenario,RUSX,variable,region,2025,2030,2035,2040,2045,2050,unit
+SSP2-ref,YesRusX,Oil,Russia,16.90,17.07,17.19,17.43,17.40,16.97,2015$ per GJ
+SSP2|NoRusX,NoRusX,Oil,Russia,16.90,10.56,10.18,9.73,9.21,8.66,2015$ per GJ
+RCP2.6,YesRusX,Oil,Russia,16.77,16.44,15.95,15.43,14.93,14.27,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Oil,Russia,16.78,10.58,10.10,9.52,8.92,8.29,2015$ per GJ
+SSP2-ref,YesRusX,Gas,Russia,5.74,5.51,5.44,5.58,5.48,5.41,2015$ per GJ
+SSP2|NoRusX,NoRusX,Gas,Russia,5.74,4.15,4.51,5.05,4.90,4.71,2015$ per GJ
+RCP2.6,YesRusX,Gas,Russia,5.67,5.00,5.22,5.18,5.07,4.88,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Gas,Russia,5.67,3.95,3.96,4.69,4.71,4.51,2015$ per GJ
+SSP2-ref,YesRusX,Coal,Russia,2.02,2.07,2.09,2.11,2.13,2.16,2015$ per GJ
+SSP2|NoRusX,NoRusX,Coal,Russia,2.02,0.83,0.83,0.81,0.78,0.76,2015$ per GJ
+RCP2.6,YesRusX,Coal,Russia,1.55,1.10,0.97,1.04,1.45,1.67,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Coal,Russia,1.60,0.67,0.62,0.58,0.56,0.53,2015$ per GJ
+SSP2-ref,YesRusX,Oil,USA,17.63,18.19,18.16,17.90,17.56,16.84,2015$ per GJ
+SSP2|NoRusX,NoRusX,Oil,USA,17.63,18.90,18.57,18.17,17.54,16.81,2015$ per GJ
+RCP2.6,YesRusX,Oil,USA,17.35,17.16,16.55,16.05,15.14,13.98,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Oil,USA,17.36,18.10,17.56,17.16,16.22,14.89,2015$ per GJ
+SSP2-ref,YesRusX,Gas,USA,7.18,7.00,6.85,6.85,7.04,7.35,2015$ per GJ
+SSP2|NoRusX,NoRusX,Gas,USA,7.18,7.03,6.89,6.89,7.09,7.41,2015$ per GJ
+RCP2.6,YesRusX,Gas,USA,6.93,6.06,5.91,6.24,6.33,6.52,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Gas,USA,6.94,6.25,6.09,6.28,6.38,6.59,2015$ per GJ
+SSP2-ref,YesRusX,Coal,USA,1.96,2.02,2.05,2.06,2.09,2.10,2015$ per GJ
+SSP2|NoRusX,NoRusX,Coal,USA,1.96,2.08,2.13,2.16,2.19,2.22,2015$ per GJ
+RCP2.6,YesRusX,Coal,USA,1.56,1.09,0.98,1.11,1.63,1.70,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Coal,USA,1.61,1.32,1.12,1.38,1.73,1.73,2015$ per GJ
+SSP2-ref,YesRusX,Oil,China,17.34,17.76,17.66,17.59,17.41,16.96,2015$ per GJ
+SSP2|NoRusX,NoRusX,Oil,China,17.34,18.41,18.26,18.01,17.57,17.08,2015$ per GJ
+RCP2.6,YesRusX,Oil,China,17.23,17.00,16.60,16.24,15.84,15.20,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Oil,China,17.24,18.00,17.67,17.45,17.08,16.34,2015$ per GJ
+SSP2-ref,YesRusX,Gas,China,6.82,6.79,6.87,7.08,7.12,7.13,2015$ per GJ
+SSP2|NoRusX,NoRusX,Gas,China,6.82,6.98,7.16,7.48,7.68,7.87,2015$ per GJ
+RCP2.6,YesRusX,Gas,China,6.68,6.39,6.61,6.76,6.74,6.60,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Gas,China,6.68,6.64,6.86,7.20,7.36,7.44,2015$ per GJ
+SSP2-ref,YesRusX,Coal,China,2.38,2.52,2.57,2.59,2.62,2.65,2015$ per GJ
+SSP2|NoRusX,NoRusX,Coal,China,2.38,2.57,2.64,2.67,2.71,2.75,2015$ per GJ
+RCP2.6,YesRusX,Coal,China,1.72,1.24,1.07,1.14,1.57,2.05,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Coal,China,1.76,1.39,1.15,1.27,1.80,2.09,2015$ per GJ
+SSP2-ref,YesRusX,Oil,Middle East,16.69,17.09,17.19,17.39,17.46,17.10,2015$ per GJ
+SSP2|NoRusX,NoRusX,Oil,Middle East,16.69,18.37,18.39,18.29,17.80,17.28,2015$ per GJ
+RCP2.6,YesRusX,Oil,Middle East,16.56,16.09,15.62,15.29,14.93,14.35,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Oil,Middle East,16.57,17.51,17.08,16.84,16.48,15.77,2015$ per GJ
+SSP2-ref,YesRusX,Gas,Middle East,6.17,6.02,6.03,6.16,6.15,6.13,2015$ per GJ
+SSP2|NoRusX,NoRusX,Gas,Middle East,6.17,6.06,6.08,6.23,6.24,6.23,2015$ per GJ
+RCP2.6,YesRusX,Gas,Middle East,6.06,5.79,5.67,5.72,5.65,5.60,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Gas,Middle East,6.06,5.82,5.72,5.78,5.73,5.70,2015$ per GJ
+SSP2-ref,YesRusX,Coal,Middle East,2.63,2.72,2.76,2.77,2.80,2.81,2015$ per GJ
+SSP2|NoRusX,NoRusX,Coal,Middle East,2.63,2.90,2.97,3.00,3.03,3.05,2015$ per GJ
+RCP2.6,YesRusX,Coal,Middle East,2.12,1.64,1.50,1.61,2.07,2.29,2015$ per GJ
+RCP2.6|NoRusX,NoRusX,Coal,Middle East,2.17,1.95,1.70,1.95,2.37,2.43,2015$ per GJ
