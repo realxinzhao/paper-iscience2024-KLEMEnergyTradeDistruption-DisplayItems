@@ -10,4 +10,4 @@ Joint Global Change Research Institute, Pacific Northwest National Laboratory
 *Corresponding Author.
 
 
-![Image](output/iscience/iScience_Graphic_Abstract-V3.png)
+![Image](output/iscience/iScience_Graphic_Abstract-V4.png)
